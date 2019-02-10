@@ -1,0 +1,2 @@
+# scrapy_baidutieba
+scrapy爬虫框架爬去百度贴吧帖子图片并保存在本地文件夹
